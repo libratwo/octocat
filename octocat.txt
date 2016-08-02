@@ -1,2 +1,3 @@
-# an example, This is Gihub's mascot
+# This is Gihub's mascot
 octocat
+mascot another
