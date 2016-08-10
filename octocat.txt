@@ -1,0 +1,3 @@
+# an example, This is Gihub's mascot
+octocat
+# This is Gihub's mascot
